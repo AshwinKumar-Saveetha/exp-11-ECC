@@ -1,4 +1,4 @@
-# exp-11-ECC
+# Exp-11-ECC
 ## AIM:
 To perform key exchange using the Elliptic Curve Cryptography (ECC) method.
 
@@ -114,9 +114,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/db4b6118-e038-4171-8d17-87034d146dc5)
 
-
+![image](https://github.com/user-attachments/assets/9cf74f94-38d7-469a-86e6-60c849f6d923)
 
 ## RESULT:
 The program for Elliptic Curve Cryptography (ECC) was executed successfully, and both Alice and Bob computed the same shared secret.
